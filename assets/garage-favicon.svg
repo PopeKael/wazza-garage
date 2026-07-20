@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Garage Alchemy</title>
+  <desc id="desc">A small orange garage workshop mark on a dark background.</desc>
+  <rect width="64" height="64" rx="14" fill="#0b1015"/>
+  <path d="M8 28 32 10l24 18v28H8Z" fill="#ed6a28"/>
+  <path d="M15 31h34v25H15z" fill="#111a22"/>
+  <path d="M18 37h28M18 43h28M18 49h28" stroke="#ed6a28" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="32" cy="22" r="5" fill="#e9e6dd"/>
+</svg>
