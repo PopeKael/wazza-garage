@@ -47,3 +47,13 @@ The written content, brand identity, and visual assets may have separate copyrig
 ## Contributing
 
 Useful experiments, corrections, and improvements are welcome. Please explain what was tested, what happened, and any limitations discovered.
+
+## Help and community
+
+Please [open an Issue](https://github.com/PopeKael/wazza-garage/issues) to report a website problem or suggest a practical workshop improvement. Include the page URL, browser and reproduction steps. Do not submit private personal information or credentials.
+
+### Support the workshop ☕
+
+Garage Alchemy is about building useful things, sharing what works, and documenting what we learn along the way. **Support is entirely optional:** [Buy Me a Coffee](https://buymeacoffee.com/warrengerdes) · [Join the Tribe on Patreon](https://www.patreon.com/c/chanyawazza).
+
+One of the workshop's public tools is [Wazza's QCam](https://github.com/PopeKael/wazzas-qcam), a free Android teleprompter and camera app. [Download version 1.0.0](https://github.com/PopeKael/wazzas-qcam/releases/tag/v1.0.0).
